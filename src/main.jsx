@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom/client';
 import { GreetingFuncional } from './components/desafio 02/GreetingFuncional';
 import { MessageClass, CustomMessageClass } from './components/desafio 01/MessageClass';
 import Card from './components/desafio 03/Card';
